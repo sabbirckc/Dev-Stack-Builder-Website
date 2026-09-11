@@ -1,122 +1,152 @@
 [
   {
-    "id": "react",
-    "name": "React",
+    "id": "1",
+    "name": "HTML",
     "category": "Frontend",
-    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
-    "icon": "https://cdn.simpleicons.org/react",
-    "rating": 4.9,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Popular"
-  },
-  {
-    "id": "vue",
-    "name": "Vue.js",
-    "category": "Frontend",
-    "description": "An approachable, performant, and versatile framework for building user interfaces.",
-    "icon": "https://cdn.simpleicons.org/vuedotjs",
+    "description": "The standard markup language used to create the structure of web pages.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
-    "badge": "Versatile"
-  },
-  {
-    "id": "svelte",
-    "name": "Svelte",
-    "category": "Frontend",
-    "description": "A compiler-enhanced web framework that builds fast and reactive applications.",
-    "icon": "https://cdn.simpleicons.org/svelte",
-    "rating": 4.8,
-    "difficulty": "Intermediate",
-    "badge": "Fast"
-  },
-  {
-    "id": "nextjs",
-    "name": "Next.js",
-    "category": "Frontend",
-    "description": "A React framework for full-stack web applications with powerful rendering features.",
-    "icon": "https://cdn.simpleicons.org/nextdotjs",
-    "rating": 4.8,
-    "difficulty": "Intermediate",
-    "badge": "SSR / Edge"
-  },
-  {
-    "id": "nodejs",
-    "name": "Node.js",
-    "category": "Backend",
-    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
-    "icon": "https://cdn.simpleicons.org/nodedotjs",
-    "rating": 4.8,
-    "difficulty": "Intermediate",
-    "badge": "Standard"
-  },
-  {
-    "id": "postgresql",
-    "name": "PostgreSQL",
-    "category": "Database",
-    "description": "A powerful open-source object-relational database system with proven reliability.",
-    "icon": "https://cdn.simpleicons.org/postgresql",
-    "rating": 4.9,
-    "difficulty": "Intermediate",
-    "badge": "Top SQL"
-  },
-  {
-    "id": "redis",
-    "name": "Redis",
-    "category": "Database",
-    "description": "An in-memory data structure store used as a database, cache, and message broker.",
-    "icon": "https://cdn.simpleicons.org/redis",
-    "rating": 4.8,
-    "difficulty": "Intermediate",
-    "badge": "Cache"
-  },
-  {
-    "id": "javascript",
-    "name": "JavaScript",
-    "category": "Language",
-    "description": "The versatile scripting language powering dynamic behavior across modern websites.",
-    "icon": "https://cdn.simpleicons.org/javascript",
-    "rating": 4.9,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Ubiquitous"
-  },
-  {
-    "id": "typescript",
-    "name": "TypeScript",
-    "category": "Language",
-    "description": "A strongly typed programming language that builds on JavaScript for scalable applications.",
-    "icon": "https://cdn.simpleicons.org/typescript",
-    "rating": 4.9,
-    "difficulty": "Intermediate",
     "badge": "Essential"
   },
   {
-    "id": "java",
-    "name": "Java",
+    "id": "2",
+    "name": "CSS",
+    "category": "Styling",
+    "description": "A stylesheet language used to design and style websites.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "rating": 4.7,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "3",
+    "name": "JavaScript",
     "category": "Language",
-    "description": "A robust object-oriented programming language designed for portability and scale.",
-    "icon": "https://cdn.simpleicons.org/openjdk",
+    "description": "A programming language that adds interactivity and dynamic behavior to web pages.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": "4",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language built on top of JavaScript.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Recommended"
+  },
+  {
+    "id": "5",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A JavaScript library for building reusable and interactive user interfaces.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": "6",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework for building modern responsive interfaces.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Trending"
+  },
+  {
+    "id": "7",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime used to build fast and scalable backend applications.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": "8",
+    "name": "Express.js",
+    "category": "Backend",
+    "description": "A lightweight Node.js framework used for building APIs and web applications.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Backend"
+  },
+  {
+    "id": "9",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A NoSQL database designed to store flexible document-based data.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
     "rating": 4.6,
     "difficulty": "Intermediate",
     "badge": "Popular"
   },
   {
-    "id": "tailwind",
-    "name": "Tailwind CSS",
-    "category": "Styling",
-    "description": "A utility-first CSS framework for building custom interfaces quickly and consistently.",
-    "icon": "https://cdn.simpleicons.org/tailwindcss",
-    "rating": 4.9,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Modern"
+    "id": "10",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful open-source relational database system.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+    "rating": 4.8,
+    "difficulty": "Advanced",
+    "badge": "Powerful"
   },
   {
-    "id": "docker",
+    "id": "11",
+    "name": "Git",
+    "category": "Tools",
+    "description": "A distributed version control system used to manage and track code changes.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "12",
+    "name": "GitHub",
+    "category": "Tools",
+    "description": "A platform for hosting, collaborating on, and managing software projects.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "13",
     "name": "Docker",
     "category": "DevOps",
-    "description": "A platform designed to build, share, and run applications inside lightweight containers.",
-    "icon": "https://cdn.simpleicons.org/docker",
-    "rating": 4.9,
-    "difficulty": "Intermediate",
-    "badge": "Containers"
+    "description": "A platform used to package applications and their dependencies into containers.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+    "rating": 4.7,
+    "difficulty": "Advanced",
+    "badge": "DevOps"
+  },
+  {
+    "id": "14",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "A React framework for building full-stack and production-ready web applications.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    "rating": 4.8,
+    "difficulty": "Advanced",
+    "badge": "Popular"
+  },
+  {
+    "id": "15",
+    "name": "Python",
+    "category": "Language",
+    "description": "A beginner-friendly programming language widely used for web development, automation, and data science.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
   }
 ]
