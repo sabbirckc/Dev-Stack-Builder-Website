@@ -1,15 +1,15 @@
+@import "tailwindcss";
+
 :root {
   --brand-gradient: linear-gradient(
     90deg,
-    #ff5a32,
-    #e91e83,
-    #9b2de0
+    #ff5a32 0%,
+    #e91e83 50%,
+    #9b2de0 100%
   );
 }
 
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
@@ -19,7 +19,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #ffffff;
+  background: #ffffff;
   color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
 }
