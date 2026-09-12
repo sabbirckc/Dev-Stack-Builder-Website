@@ -6,7 +6,7 @@ The website allows users to explore different web development technologies and c
 
 ## Live Website
 
-Live Demo: devstack.surge.sh
+Live Demo: https://devstack.surge.sh
 
 ## GitHub Repository
 
