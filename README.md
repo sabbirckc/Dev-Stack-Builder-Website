@@ -6,11 +6,11 @@ The website allows users to explore different web development technologies and c
 
 ## Live Website
 
-Live Demo: Add your deployed website link here
+Live Demo: devstack.surge.sh
 
 ## GitHub Repository
 
-GitHub: Add your GitHub repository link here
+GitHub: https://github.com/sabbirckc/Dev-Stack-Builder-Website
 
 
 
